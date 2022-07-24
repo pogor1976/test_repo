@@ -1,1 +1,1 @@
-file1 in directory 'dir1'
+file1 in directory 'dir1'.
